@@ -6,7 +6,7 @@ Winner of the [Unicorn Mafia x Techbible Hack Night](https://luma.com/etljlw2n) 
 
 Wildlife trafficking is a $23 billion criminal enterprise operating openly on regional marketplaces like OLX Thailand, Cho Tot, Shopee, and Facebook Marketplace. Listings are posted in local languages using code words and euphemisms to hide illegal ivory, pangolin scales, rhino horn, and other protected species products. WILDSCAN finds them automatically.
 
-![WILDSCAN Command Center](docs/images/command-center.png)
+![WILDSCAN Landing Page](docs/images/landing.png)
 
 ## How It Works
 
@@ -187,11 +187,11 @@ WILDSCAN/
 
 ## Screenshots
 
-![Globe View](docs/images/globe-view.png)
+![Command Center](docs/images/command-center.png)
 
-![Signal Breakdown](docs/images/signal-breakdown.png)
+![Scan Results](docs/images/scan-results.png)
 
-![Intelligence Brief](docs/images/intel-brief.png)
+![Detection Detail](docs/images/detection-detail.png)
 
 ## License
 
