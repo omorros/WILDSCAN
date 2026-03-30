@@ -1,0 +1,49 @@
+-- IUCN Red List data — VERIFIED
+-- Source: IUCN Red List API v4 (api.iucnredlist.org)
+-- Generated: 2026-03-29 19:14:20
+
+UPDATE species_ref SET iucn_status = 'EN', population_trend = 'decreasing' WHERE scientific_name = 'Loxodonta africana';
+UPDATE species_ref SET iucn_status = 'EN', population_trend = 'decreasing' WHERE scientific_name = 'Elephas maximus';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Manis javanica';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Manis pentadactyla';
+UPDATE species_ref SET iucn_status = 'EN', population_trend = 'decreasing' WHERE scientific_name = 'Smutsia gigantea';
+UPDATE species_ref SET iucn_status = 'EN', population_trend = 'decreasing' WHERE scientific_name = 'Phataginus tricuspis';
+UPDATE species_ref SET iucn_status = 'NT', population_trend = 'decreasing' WHERE scientific_name = 'Ceratotherium simum';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = '' WHERE scientific_name = 'Diceros bicornis';
+UPDATE species_ref SET iucn_status = 'EN', population_trend = 'decreasing' WHERE scientific_name = 'Panthera tigris';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Eretmochelys imbricata';
+UPDATE species_ref SET iucn_status = 'EN', population_trend = 'decreasing' WHERE scientific_name = 'Cuora amboinensis';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Indotestudo elongata';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Batagur baska';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Rhinoplax vigil';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Cacatua sulphurea';
+UPDATE species_ref SET iucn_status = 'LC', population_trend = 'decreasing' WHERE scientific_name = 'Gracula religiosa';
+UPDATE species_ref SET iucn_status = 'LC', population_trend = 'increasing' WHERE scientific_name = 'Varanus salvator';
+UPDATE species_ref SET iucn_status = 'VU', population_trend = 'decreasing' WHERE scientific_name = 'Ursus thibetanus';
+UPDATE species_ref SET iucn_status = 'VU', population_trend = 'decreasing' WHERE scientific_name = 'Helarctos malayanus';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Sphyrna lewini';
+UPDATE species_ref SET iucn_status = 'EN', population_trend = 'decreasing' WHERE scientific_name = 'Rhincodon typus';
+UPDATE species_ref SET iucn_status = 'LC', population_trend = 'decreasing' WHERE scientific_name = 'Heliopora coerulea';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Dalbergia cochinchinensis';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Dalbergia oliveri';
+UPDATE species_ref SET iucn_status = 'DD', population_trend = 'increasing' WHERE scientific_name = 'Hippocampus kuda';
+UPDATE species_ref SET iucn_status = 'VU', population_trend = 'decreasing' WHERE scientific_name = 'Lutrogale perspicillata';
+UPDATE species_ref SET iucn_status = 'NA', population_trend = 'increasing' WHERE scientific_name = 'Aonyx cinereus';
+UPDATE species_ref SET iucn_status = 'EN', population_trend = 'decreasing' WHERE scientific_name = 'Nycticebus bengalensis';
+UPDATE species_ref SET iucn_status = 'EN', population_trend = 'decreasing' WHERE scientific_name = 'Nycticebus coucang';
+UPDATE species_ref SET iucn_status = 'LC', population_trend = 'increasing' WHERE scientific_name = 'Gekko gecko';
+UPDATE species_ref SET iucn_status = 'VU', population_trend = 'decreasing' WHERE scientific_name = 'Geochelone elegans';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Astrochelys yniphora';
+UPDATE species_ref SET iucn_status = 'EN', population_trend = 'decreasing' WHERE scientific_name = 'Scleropages formosus';
+UPDATE species_ref SET iucn_status = 'EN', population_trend = 'decreasing' WHERE scientific_name = 'Hylobates lar';
+UPDATE species_ref SET iucn_status = 'NT', population_trend = '' WHERE scientific_name = 'Saiga tatarica';
+UPDATE species_ref SET iucn_status = 'VU', population_trend = 'decreasing' WHERE scientific_name = 'Panthera uncia';
+UPDATE species_ref SET iucn_status = 'VU', population_trend = 'decreasing' WHERE scientific_name = 'Neofelis nebulosa';
+UPDATE species_ref SET iucn_status = 'VU', population_trend = 'decreasing' WHERE scientific_name = 'Bos gaurus';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Paphiopedilum vietnamense';
+UPDATE species_ref SET iucn_status = 'EN', population_trend = 'decreasing' WHERE scientific_name = 'Cheilinus undulatus';
+UPDATE species_ref SET iucn_status = 'VU', population_trend = 'decreasing' WHERE scientific_name = 'Moschus moschiferus';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Platysternon megacephalum';
+UPDATE species_ref SET iucn_status = 'CR', population_trend = 'decreasing' WHERE scientific_name = 'Pelochelys cantorii';
+UPDATE species_ref SET iucn_status = 'VU', population_trend = 'decreasing' WHERE scientific_name = 'Ophiophagus hannah';
+UPDATE species_ref SET iucn_status = 'LC', population_trend = 'stable' WHERE scientific_name = 'Eublepharis macularius';
